@@ -48,4 +48,4 @@ public class FinchButtonScore {
 ### Choose At Least Three of the Following to Include:
 Our motivation towards this project was we wanted a fun but unique game that anyone could play which led us to brainstorm several ideas all eventually ending at this sack toss type of game. We believed it was a great way to have fun while trying out how the robot functions.
 During this project we've learned several coding vocabulary words while coding the actions for this finch robot. We learned things such as finch robot movement, a score system based off of the button presses, and a way to communicate the score and time numbers.
-Our project stands out because..
+Our project stands out because it is a unique design exclusive to us although it is simple nobody else has done this specific project design. Also since we went for something unique we believe it will stand out since it is a simple yet fun game design.
