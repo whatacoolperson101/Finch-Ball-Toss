@@ -24,7 +24,7 @@ The design cycle above was something we indirectly used to guide us through this
 ---
 
 ### Code to Highlight
-```
+``` java
 
 public class FinchButtonScore {
     public static void main(String[] args) {
