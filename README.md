@@ -21,6 +21,7 @@ Initially we wanted to go for something unique which led us to initially choosin
 ### Design Cycle
 <img src="design_cycle.png" alt="design cycle" width="300" height="300">
 The design cycle above was something we indirectly used to guide us through this project. First we got all of the parameters for the finch hole and how well it would stabilize. Once we found that part out we realized that in our prototype the stick was too thin which led us to increasing the width of it. Once we figured out the issues we decided to make a new model which was a wider version that had barriers on the side to catch the ball if missed. After our redesign we printed it out and checked the size which was a perfect fit and the model was the perfect size.
+
 ---
 
 ### Code to Highlight
